@@ -16,3 +16,4 @@ This includes but is not limited to the following topics:
 * math
 * privacy
 
+[Join us on Slack.](https://bit.ly/2CVQGI2)
