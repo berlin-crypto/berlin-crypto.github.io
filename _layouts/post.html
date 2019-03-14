@@ -23,10 +23,10 @@ layout: default
     <div class="post-content" itemprop="articleBody">
     {{ content }}
   </div>
-  
+
     {% if organiser.email %}
         <div>
-            <a href='mailto:{{organiser.email}}?subject=[BerlinCrypto] Register interest for {{page.title}} on {{ page.date | date: "%B %-d, %Y" }}&body=Hi! Im interested in your event.' class="button button-primary">Contact Organiser</a>
+            <a href='mailto:{{organiser.email}}?subject=[BerlinCrypto] Interest in {{page.title}} on {{ page.date | date: "%B %-d, %Y" }}&body=Hi! Im interested in your event.' class="button button-primary">Contact Organiser</a>
         </div>
     {% endif %}
 
