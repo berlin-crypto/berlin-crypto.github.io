@@ -7,7 +7,10 @@
       {{ site.description }} &nbsp;
         {% include icon-github.html %}
     </p>
-    <p>The title photo is from <a href="https://www.flickr.com/photos/_dchris/20235659265">_dChris</a>.</p>
+    <p>The cover photo is from <a href="https://www.flickr.com/photos/_dchris/20235659265">_dChris</a>.</p>
+    {% if page.cover_credit %}
+        {{ page.cover_credit }}
+    {% endif %}
 
   </div>
 
