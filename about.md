@@ -31,3 +31,6 @@ This includes but is not limited to the following topics:
      + '&showsearch=true&showpopout=true&showtabs=false'
      + '&parenturl=' + encodeURIComponent(window.location.href);
 </script>
+
+# Orga
+Use [these orga slides](https://docs.google.com/presentation/d/1a7UX1lszK1ZzUb4UkyI0tyN-bDXBT9zX_adAYLW7Udw/edit?usp=sharing) for events (update upcoming events if necessary).
