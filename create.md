@@ -4,7 +4,6 @@ title: Create an event
 navigation_title: Create Event
 permalink: /create/
 cover: '../title_pic.jpg'
-button: true
 ---
 
 
@@ -28,7 +27,7 @@ title:  "Talk on Provable Verifiable Randomness Extractors"
 #Url to your cover photo for your event. [optional - default will be used if not given]
 cover: "https://frontendmasters.com/assets/es6-logo.png"
 
-#The date of the event. 
+#The date of the event.
 date:   2016-02-01 16:04:19 +0000
 
 #Start time of the event
