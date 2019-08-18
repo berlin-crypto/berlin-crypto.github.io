@@ -8,6 +8,7 @@
 
 # Site settings
 title: Berlin Crypto
+logo: logo.png
 
 #What is the name of the events or talks you would like to host? (Example Brownbags, Talks, Lighting Talks)
 event_label: Event

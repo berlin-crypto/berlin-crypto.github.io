@@ -18,6 +18,8 @@ This includes but is not limited to the following topics:
 
 # Contact
 
+Connect on [Twitter](https://twitter.com/_berlin_crypto_) or sign up to the mailing list.
+
 <iframe id="forum_embed"
   src="javascript:void(0)"
   scrolling="no"
