@@ -35,7 +35,6 @@ Come and join our community of Berliners interested in cryptography and everythi
 # Proxy Re-Encryption (Teetje Stark)
 Proxy Re-Encryption is a new cryptographic primitive that allows a semi-trusted third party (a proxy) to forward end-to-end encrypted messages to a second receiver without gaining access to the underlying plaintext. This talk gives an overview of the different flavours of Proxy Re-Encryption. It further provides an example of how the "most useful" property, unidirectionality, is commonly achieved by looking at one of the schemes.
 
-[Get slides]().
 
 <br/>
-<a href='' class="button button-primary">Register</a>
+<a href='https://www.eventbrite.co.uk/e/berlin-crypto-proxy-re-encryption-tickets-71293094565?ref=estw' class="button button-primary">Register</a>
