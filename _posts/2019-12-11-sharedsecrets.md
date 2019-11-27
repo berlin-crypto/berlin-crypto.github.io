@@ -26,11 +26,11 @@ cover_credit_short: 'pixabay'
 
 ---
 
-In our Christmas editions, we will learn about sharing secrets securely without storing them on a webserver and why sometimes GnuPG simply isn't secure enough.
+In our Christmas edition, we will learn about sharing secrets securely without storing them on a webserver and why sometimes GnuPG simply isn't secure enough.
 
 Join us at SSE ([Secure Systems Engineering](https://securesystems.de/)) where Kenny will talk about "Shared-Secrets Service - Why GnuPG wasn't secure enough". Doors will open at 18:30 with some drinks and snacks. There will be plenty of time to socialise and discuss any issues of interest.
 
-Come and join our community of Berliners interested in everything around cryptography!
+So get out your best Christmas sweater and join our community of Berliners interested in everything around cryptography!
 
 # Shared-Secrets Service - Why GnuPG wasn't secure enough. (Kenny Niehage)
 Shared-Secrets is a web application that can be used to create links containing encrypted secret information. The application used GnuPG but was recently rewritten to use a custom message format. This talk delves into why GnuPG just wasn't secure enough.
