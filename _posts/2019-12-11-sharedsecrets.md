@@ -38,4 +38,4 @@ Shared-Secrets is a web application that can be used to create links containing 
 The source code can be found on [GitHub](https://github.com/syseleven/shared-secrets). An example implementation is hosted by [SysEleven](https://secrets.syseleven.de/).
 
 <br/>
-<a href='' class="button button-primary">Register</a>
+<a href=' https://www.eventbrite.co.uk/e/shared-secrets-service-why-gnupg-wasnt-secure-enough-tickets-83945622617?ref=estw' class="button button-primary">Register</a>
