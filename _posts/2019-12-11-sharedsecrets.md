@@ -38,4 +38,24 @@ Shared-Secrets is a web application that can be used to create links containing 
 The source code can be found on [GitHub](https://github.com/syseleven/shared-secrets). An example implementation is hosted by [SysEleven](https://secrets.syseleven.de/).
 
 <br/>
-<a href=' https://www.eventbrite.co.uk/e/shared-secrets-service-why-gnupg-wasnt-secure-enough-tickets-83945622617?ref=estw' class="button button-primary">Register</a>
+<!--<a href=' https://www.eventbrite.co.uk/e/shared-secrets-service-why-gnupg-wasnt-secure-enough-tickets-83945622617?ref=estw' class="button button-primary">Register</a>-->
+<div id="eventbrite-widget-container-83945622617"></div>
+
+<script src="https://www.eventbrite.co.uk/static/widgets/eb_widgets.js"></script>
+
+<script type="text/javascript">
+    var exampleCallback = function() {
+        console.log('Order complete!');
+    };
+
+    window.EBWidgets.createWidget({
+        // Required
+        widgetType: 'checkout',
+        eventId: '83945622617',
+        iframeContainerId: 'eventbrite-widget-container-83945622617',
+
+        // Optional
+        iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
+        onOrderComplete: exampleCallback  // Method called when an order has successfully completed
+    });
+</script>
