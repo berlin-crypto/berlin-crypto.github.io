@@ -1,6 +1,6 @@
 # Berlin Crypto Website
 
-[https://berlin-crypto.github.io](https://berlin-crypto.github.io).
+[https://berlin-crypto.github.io](https://berlin-crypto.github.io)
 
 ---
 
