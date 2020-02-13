@@ -14,6 +14,8 @@ permalink: /assets/
 * [IKEv2 slides](Berlin Crypto ikev2.pdf)
 * [Post Quantum secure IKEv2 slides](Berlin Crypto ikev2 pqc.pdf)
 * [Verifpal](Berlin Crypto Verifpal.pdf)
+* [Insecure Until Proven Updated: Analyzing AMD SEV‘s Remote Attestation](Berlin Crypto InsecureUntilProvenUpdated.pdf)
+
 
 # Demos
 * [deSEC](https://github.com/desec-io/desec-demo/tree/2019-05-07-crypto-meetup)
