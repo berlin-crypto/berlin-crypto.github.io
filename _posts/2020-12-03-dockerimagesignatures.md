@@ -42,26 +42,9 @@ In modern software development, the introduction of containers and their orchest
 
 Consequently, ensuring integrity and authenticity of images is of critical importance for the secure deployment of software. This can be achieved by adding signatures to guarantee authenticated and unaltered code. However, practical implementation of image signing and verification has remained a major challenge. This talk dives into current solutions and shortcomings for the two most popular containerization and orchestration engines, Docker and Kubernetes. It will touch on Docker Content Trust (DCT), Notary and The Update Framework (TUF) used for Docker image signing and introduce [Connaisseur](https://github.com/sse-secure-systems/connaisseur), a signature verification tool for Kubernetes. Live demo included ;-)
 
+
+Get slides [(pdf)](/assets/Berlin Crypto Connaisseur.pdf)
+
 <br/>
-<!--<a href=' https://www.eventbrite.com/e/integrity-of-docker-images-signatures-verification-and-a-tool-for-k8s-tickets-129022328257?ref=estw' class="button button-primary">Register</a>-->
-<div id="eventbrite-widget-container-129022328257"></div>
-
-<script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
-
-<script type="text/javascript">
-    var exampleCallback = function() {
-        console.log('Order complete!');
-    };
-
-    window.EBWidgets.createWidget({
-        // Required
-        widgetType: 'checkout',
-        eventId: '129022328257',
-        iframeContainerId: 'eventbrite-widget-container-129022328257',
-
-        // Optional
-        iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
-        onOrderComplete: exampleCallback  // Method called when an order has successfully completed
-    });
-</script>
+<a href=' https://www.eventbrite.com/e/integrity-of-docker-images-signatures-verification-and-a-tool-for-k8s-tickets-129022328257?ref=estw' class="button button-primary">Register</a>
 
