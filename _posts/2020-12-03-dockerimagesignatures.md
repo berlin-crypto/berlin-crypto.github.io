@@ -45,6 +45,11 @@ Consequently, ensuring integrity and authenticity of images is of critical impor
 
 Get slides [(pdf)](/assets/Berlin Crypto Connaisseur.pdf)
 
+
+Full recording:
+<iframe width="1280" height="643" src="https://www.youtube.com/embed/M3KAiBXhsPQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 <br/>
 <a href=' https://www.eventbrite.com/e/integrity-of-docker-images-signatures-verification-and-a-tool-for-k8s-tickets-129022328257?ref=estw' class="button button-primary">Register</a>
 
